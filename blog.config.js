@@ -2,7 +2,7 @@ const BLOG = {
   title: 'NIIN-BLOG',
   author: 'Niin Ni',
   email: 'niinjoy@icloud.com',
-  link: 'https://niinblog.vercel.app',
+  link: 'https://blog.niin.ga',
   description: 'Blogs by Niin.',
   lang: 'en-US',
   appearance: 'light', // ['light', 'dark', 'auto'],
